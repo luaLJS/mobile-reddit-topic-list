@@ -1,5 +1,6 @@
 {
   "name": "Mobile Reddit Topic List",
+  "component": true,
   "about_url": "https://github.com/SEU_USUARIO/mobile-reddit-topic-list",
   "license_url": "https://opensource.org/licenses/MIT"
 }
